@@ -8,14 +8,11 @@ Ils représentent des solutions, fournies par la communauté, aux problèmes cou
 le développement de logiciels. Les connaître et les connaître par cœur peut vous aider à augmenter la vitesse et la qualité de votre développement.
 
 Il existe trois catégories principales de modèles de conception : 
-Creational Patterns, Structural Patterns et Behavioral Patterns, 
-mais nous plongerons également dans les J2EE Patterns.
-
 * **Creational Patterns** 
 * **Structural Patterns**
 * **Behavioral Patterns**
 
-Dans ce repo nous allons voir des exemples de **Creational Patterns** :
+Dans ce repo nous allons voir des exemples de **Creational Patterns** :<br/>
 **Creational Patterns**, comme leur nom l'indique, sont plus préoccupés par les solutions et les options qui tournent autour de l'instanciation d'objets, et comment le faire plus efficacement dans les circonstances les plus variées.
 <br/>
 * **Factory Method/Template** également souvent appelée Factory Pattern, est un modèle de conception largement utilisé qui commande la création d'objets.
